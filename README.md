@@ -1,2 +1,4 @@
 # toDoApp Credentials
-login: username="kami" and password="123"
+login: username="kami" 
+and 
+password="123"
